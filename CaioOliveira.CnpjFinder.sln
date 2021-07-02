@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaioOliveira.CnpjFinder", "CaioOliveira.CnpjFinder\CaioOliveira.CnpjFinder.csproj", "{F6BDC1B3-B815-4B35-85F5-DF1D326A05AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaioOliveira.CnpjFinder.Test", "CaioOliveira.CnpjFinder.Test\CaioOliveira.CnpjFinder.Test.csproj", "{E90EE6D1-2DC7-414A-9BB4-8087D1525518}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{A78F74A0-A146-414E-89E3-47C01D1454A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BDC1B3-B815-4B35-85F5-DF1D326A05AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BDC1B3-B815-4B35-85F5-DF1D326A05AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BDC1B3-B815-4B35-85F5-DF1D326A05AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BDC1B3-B815-4B35-85F5-DF1D326A05AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90EE6D1-2DC7-414A-9BB4-8087D1525518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90EE6D1-2DC7-414A-9BB4-8087D1525518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90EE6D1-2DC7-414A-9BB4-8087D1525518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90EE6D1-2DC7-414A-9BB4-8087D1525518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E90EE6D1-2DC7-414A-9BB4-8087D1525518} = {A78F74A0-A146-414E-89E3-47C01D1454A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85CCFD8C-65E4-4113-8B42-8337B1356001}
+	EndGlobalSection
+EndGlobal
